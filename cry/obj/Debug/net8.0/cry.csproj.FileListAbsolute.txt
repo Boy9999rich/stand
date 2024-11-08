@@ -1,0 +1,15 @@
+D:\what\stand\cry\bin\Debug\net8.0\cry.exe
+D:\what\stand\cry\bin\Debug\net8.0\cry.deps.json
+D:\what\stand\cry\bin\Debug\net8.0\cry.runtimeconfig.json
+D:\what\stand\cry\bin\Debug\net8.0\cry.dll
+D:\what\stand\cry\bin\Debug\net8.0\cry.pdb
+D:\what\stand\cry\obj\Debug\net8.0\cry.GeneratedMSBuildEditorConfig.editorconfig
+D:\what\stand\cry\obj\Debug\net8.0\cry.AssemblyInfoInputs.cache
+D:\what\stand\cry\obj\Debug\net8.0\cry.AssemblyInfo.cs
+D:\what\stand\cry\obj\Debug\net8.0\cry.csproj.CoreCompileInputs.cache
+D:\what\stand\cry\obj\Debug\net8.0\cry.sourcelink.json
+D:\what\stand\cry\obj\Debug\net8.0\cry.dll
+D:\what\stand\cry\obj\Debug\net8.0\refint\cry.dll
+D:\what\stand\cry\obj\Debug\net8.0\cry.pdb
+D:\what\stand\cry\obj\Debug\net8.0\cry.genruntimeconfig.cache
+D:\what\stand\cry\obj\Debug\net8.0\ref\cry.dll

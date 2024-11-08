@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("number => ");
+            var number = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(number);
         }
     }
 }
