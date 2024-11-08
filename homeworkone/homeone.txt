@@ -1,0 +1,51 @@
+class program
+{
+    static void Main(string[] nap)
+    {
+        Console.Write("Enter number = > ");
+        var number = Convert.ToInt32(Console.ReadLine());
+
+        var i = 1;
+
+        while (i < number)
+        {
+            i *= 3;
+        }
+        if (i == number)
+        {
+            Console.WriteLine("3 ning darajasi");
+        }
+        else
+        {
+            Console.WriteLine("3 ning darajasi emas");
+        }
+
+        Main(nap);
+    }
+}
+
+class program
+{
+    static void Main(string[] nap)
+    {
+        Console.Write("Enter number = > ");
+        var number = Convert.ToInt32(Console.ReadLine());
+
+        var i = 1;
+
+        while (i < number)
+        {
+            i *= 3;
+        }
+        if (i == number)
+        {
+            Console.WriteLine("3 ning darajasi");
+        }
+        else
+        {
+            Console.WriteLine("3 ning darajasi emas");
+        }
+
+        Main(nap);
+    }
+}
